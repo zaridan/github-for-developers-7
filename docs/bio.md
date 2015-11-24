@@ -3,4 +3,4 @@ Bio of TJ Baker
 * Location:  Visalia, CA
 * Favorite Food: Pizza!
 * A Hobby: Playing guitar with my son.
-* Favorite Color: Green
+* Favorite Color: Blue
